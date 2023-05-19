@@ -1,7 +1,7 @@
 {
   "name": "god-is-love",
   "version": "1.0.0",
-  "description": "God first loved us",
+  "description": "God first loved us so we love him",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
